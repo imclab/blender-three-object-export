@@ -18,3 +18,5 @@ An alternative Three.js Object Format 4.3 JSON Exporter for Blender 2.72+
 ## Options
 
  - TODO
+ 
+ >> No change. Just wanted to say: Thank you!
